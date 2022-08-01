@@ -15,9 +15,6 @@ describe("testando Upvote", () => {
         cy.get(':nth-child(4) > :nth-child(3) > :nth-child(1) > path').click()
         cy.get(':nth-child(4) > :nth-child(3) > :nth-child(1) > path').click()
         cy.get(':nth-child(4) > :nth-child(3) > :nth-child(1) > path').click()
-    
-    
-        
     })
     })
 })
